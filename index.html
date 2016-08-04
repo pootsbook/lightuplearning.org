@@ -1,23 +1,54 @@
 ---
 layout: default
+section: home
+id: home
 ---
 
-<div class="home">
+{% include hero-image.html %}
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="container">
+  <div class="row card card-block lul-row-spacing">
+    <div class="col-md-3">
+      <h4>Our Impact</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulia quam velit, vulputate eu pharetra nec.</p>
+    </div>
+    <div class="col-md-3 text-xs-center">
+      <i class="fa fa-user fa-5x" aria-hidden="true"></i>
+      <p>Young People Supported</p>
+    </div>
+    <div class="col-md-3 text-xs-center">
+      <i class="fa fa-money fa-5x" aria-hidden="true"></i>
+      <p>Pounds Raised</p>
+    </div>
+    <div class="col-md-3 text-xs-center">
+      <i class="fa fa-heart fa-5x" aria-hidden="true"></i>
+      <p>Return on investment</p>
+    </div>
+  </div>
+  <div class="row lul-row-spacing">
+    <div class="col-md-12">
+      <h4>Success Stories</h4>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <figure class="figure">
+        <img class="figure-img img-fluid" src="http://placehold.it/600x400">
+        <figcaption class="figure-caption">Transforming a child through learning.</figcaption>
+      </figure>
+    </div>
+    <div class="col-sm-4">
+      <figure class="figure">
+        <img class="figure-img img-fluid" src="http://placehold.it/600x400">
+        <figcaption class="figure-caption">Inspiring youth through their own imaginations.</figcaption>
+      </figure>
+    </div>
+    <div class="col-sm-4">
+      <figure class="figure">
+        <img class="figure-img img-fluid" src="http://placehold.it/600x400">
+        <figcaption class="figure-caption">Unlocking a child’s potential with anime.</figcaption>
+      </figure>
+    </div>
+  </div>
 </div>
+

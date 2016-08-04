@@ -1,0 +1,9 @@
+<ul class="nav nav-pills nav-stacked">
+{% for items in site.data.submenus[page.section] %}
+  {% for item in items %}
+    {% assign item_page = site.pages | where:"id", item | first %}
+    <li class="nav-item">
+      <a class="nav-link {% if page.id == item %}active{% endif %}" href="{{item_page.url}}">{{item_page.title}}</a>
+    </li>
+  {% endfor %}
+{% endfor %}

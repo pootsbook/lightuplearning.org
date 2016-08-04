@@ -1,0 +1,16 @@
+about:
+  - 'about-what'
+  - 'about-why'
+  - 'about-who'
+  - 'about-story'
+approach:
+  - 'approach-schools'
+  - 'approach-students'
+  - 'approach-mentors'
+impact:
+  - 'impact-achievements'
+  - 'impact-success'
+  - 'impact-research'
+contribute:
+  - 'contribute-donate'
+  - 'contribute-volunteer'
