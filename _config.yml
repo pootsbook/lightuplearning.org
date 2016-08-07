@@ -19,3 +19,9 @@ twitter_username: lightuplearning
 
 # Build settings
 markdown: kramdown
+
+gostatic:
+  build:
+    command:
+    - apt-get install -y libffi-dev
+    - bundle exec jekyll build --trace --destination $SITE_DIR --config=_config.production.yml
