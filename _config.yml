@@ -25,4 +25,3 @@ gostatic:
     dependencies:
       pre:
       - apt-get install -y libffi-dev
-      - bundle exec jekyll -v
