@@ -1,4 +1,4 @@
-<ul class="nav nav-pills nav-stacked">
+<ul class="nav nav-pills nav-stacked lul-submenu">
 {% for items in site.data.submenus[page.section] %}
   {% for item in items %}
     {% assign item_page = site.pages | where:"id", item | first %}

@@ -2,20 +2,13 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <h1>{{page.title}}</h1>
-      <p>{{page.tagline}}</p>
-      <img class="img-fluid" src="{{page.header_image }}" />
-    </div>
-  </div>
-
+<div class="container lul-main">
   <div class="row">
     <div class="col-md-3">
       {% include submenu.html %}
     </div>
     <div class="col-md-9">
+      <h1>{{page.title}}</h1>
       {{content}}
     </div>
   </div>

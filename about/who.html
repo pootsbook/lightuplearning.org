@@ -7,4 +7,7 @@ tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam ve
 header_image: 'http://placehold.it/2000x300'
 ---
 
-Some content
+{% for person in site.data.people %}
+  <h2>{{person.name}}, {{person.role}}</h2>
+  <p>{{person.bio}}</p>
+{% endfor %}
