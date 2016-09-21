@@ -8,10 +8,15 @@ title: Success stories
 ## Thomas
 
 When fifteen year­old rugby enthusiast Thomas first heard about the possibility of working with Light Up Learning, he said that he “didn’t really know what to expect”. He did think, though, that it could be “a good opportunity for me to reach new areas that I wasn’t really doing in other classes– because I wasn’t doing what I wanted to do”.
+
 During a year of working with Richard, Thomas has developed what he calls the ability to “self­analyse, or self­teach”, which has had a positive effect both in and out of school.
+
 “The way I’m learning”, he says, “is about something I enjoy, so taking that into something I don’t enjoy helps me do better”. Thomas thinks “I do analyse things a lot better than what I did”, and gives the example of a change of heart about politics. “I was telling him [Richard] how I find politics boring, but we talked about how if you look at political debates, in a sports way, like getting the upper hand, and getting more points, then it’s more easy to enjoy, and I thought it was brilliant”.
+
 When we asked him if he could apply all of this to things outside the classroom, he said “Yes, definitely in decision­making. Even in my rugby, if I’ve analyzed a game or a part of a game, I’ll know… if I am making the right or wrong decision”. He even believes the results are obvious in the classroom, especially in his English and History classes.
+
 Surveys and results show that Thomas’s academic performance has improved, and he is more confident pursuing his interests and meeting the challenges of school.
+
 ￼And what’s the best bit of working with Light Up Learning? For Thomas, “it’s mostly the freedom that I get to do what I want and learn what I want to learn”. Light Up Learning “opens up new doors which stay closed if I didn’t go”.
 
 ## Greig
