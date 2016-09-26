@@ -3,13 +3,11 @@ layout: page
 id: about-what
 section: about
 title: What we do
-tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis acda se beid fid le."
-header_image: 'http://placehold.it/2000x300'
 ---
 
 Light Up Learning is a charitable organisation dedicated to inspiring a love of learning in young people.
 
-We offer one­on­one mentoring to school students who are struggling to meet their potential or have become disengaged in the classroom. In particular we aim to reach those who would not otherwise be able to afford such extracurricular support.
+We offer one-on-one mentoring to school students who are struggling to meet their potential or have become disengaged in the classroom. In particular we aim to reach those who would not otherwise be able to afford such extracurricular support.
 
 We use the Scottish Index of Multiple Deprivation, eligibility for The Lothians Equal Access Programme for Schools, and Free School Meals as our guidelines. Lasswade High School, our current partnership school, help us select our students.
 

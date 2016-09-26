@@ -4,7 +4,7 @@ id: about-story
 section: about
 title: Our story
 ---
-Our story really begins with two knobbly­kneed primary school pupils back in 1993. A young Richard McLauchlan and Will Ferguson were just a year apart, and knew each other from across the playground. But it wasn’t until 2010 that they actually exchanged words, when they both started their Masters degrees at Cambridge, this time with their knees concealed.
+Our story really begins with two knobbly-kneed primary school pupils back in 1993. A young Richard McLauchlan and Will Ferguson were just a year apart, and knew each other from across the playground. But it wasn’t until 2010 that they actually exchanged words, when they both started their Masters degrees at Cambridge, this time with their knees concealed.
 
 Staying on for Ph.D’s gave Will and Richard plenty of time to discuss their learning experiences. Richard found that studying what he loved made learning not just easier, but fun. Though Will was interested and challenged by his studies, he wanted to interact with a broader range of people than he was used to.
 
