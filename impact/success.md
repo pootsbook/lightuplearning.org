@@ -5,6 +5,8 @@ section: impact
 title: Success stories
 ---
 
+![](/images/success-stories-thomas.jpg)
+
 ## Thomas
 
 When fifteen year old rugby enthusiast Thomas first heard about the possibility of working with Light Up Learning, he said that he “didn’t really know what to expect.” He did think, though, that it could be “a good opportunity for me to reach new areas that I wasn’t really doing in other classes– because I wasn’t doing what I wanted to do.”
@@ -36,6 +38,8 @@ Greig also believes that his Light Up Learning sessions allowed him to become cl
 Asked to describe his relationship with Will in one word, Greig chose ‘different’, saying that it wasn’t ‘like any other sort of friendship’. He appreciated that Will treated him ‘equally’ and ‘really wants to know about what you know, like I’m the expert for a small bit’.
 
 Greig thinks that his friends and other teenagers would benefit from the chance to spend fifty minutes a week on the subjects they love. ‘I have friends with good grades’, he said, ‘but who need a drive to do more’. It’s crucial, he thinks, ‘to understand them [teenagers] before telling them to do something. Like Will, he got to know me and it’s a lot easier then to interact once you’ve got to know them’.
+
+![](/images/success-stories-daniel.jpg)
 
 ## Daniel
 

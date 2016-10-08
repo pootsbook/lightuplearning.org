@@ -9,6 +9,8 @@ Light Up Learning has been working with its partnership school, Lasswade High, s
 
 We have also received these kinds of responses from parents:
 
+![](/images/quote-aspen.jpg)
+
 > “We are thrilled that through working with you we can see a noticeable difference in Aspen’s confidence of her own abilities, which is filtering into other aspects of her school and home life.”
 
 > “Thomas was very keen to let me read his essay [on sports psychology, a topic of his choice that he had been working on with a LuL mentor] last night – and I must say I am very impressed with it. The other noticeable difference is that he is doing his homework! Twice this week he has stayed back at school to use the library facilities to complete homework tasks, so thank you for discussing time management with him. Thank you too for all that you’ve helped Thomas with this session. He really enjoys his sessions with you.”

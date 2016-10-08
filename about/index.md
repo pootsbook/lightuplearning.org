@@ -5,6 +5,8 @@ section: about
 title: What we do
 ---
 
+![](/images/what-we-do.jpg)
+
 Light Up Learning is a charitable organisation dedicated to inspiring a love of learning in young people.
 
 We offer one-on-one mentoring to school students who are struggling to meet their potential or have become disengaged in the classroom. In particular we aim to reach those who would not otherwise be able to afford such extracurricular support.
