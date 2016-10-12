@@ -1,7 +1,13 @@
 ---
 ---
+$roboto: 'Roboto', sans-serif;
+$roboto-condensed: 'Roboto Condensed', sans-serif;
 $lul-blue: #4551A3;
 $lul-yellow: #F8ED31;
+
+body {
+  font-family: $roboto; 
+}
 
 blockquote {
   font-size: 1em;
@@ -19,6 +25,7 @@ blockquote {
   li a.nav-link {
     color: #666;
     font-weight: bold;
+    font-family: $roboto;
   }
 }
 
