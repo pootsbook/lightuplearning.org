@@ -1,5 +1,8 @@
 ---
 ---
+$lul-blue: #4551A3;
+$lul-yellow: #F8ED31;
+
 blockquote {
   font-size: 1em;
   font-style: italic;
@@ -10,6 +13,13 @@ blockquote {
 .lul-navbar-toggler {
   font-variant: small-caps;
   letter-spacing: 0.05rem;
+}
+
+.lul-nav .navbar-nav {
+  li a.nav-link {
+    color: #666;
+    font-weight: bold;
+  }
 }
 
 .lul-main {
@@ -57,11 +67,20 @@ blockquote {
 }
 
 .lul-row-spacing {
-  margin-top: 30px;
+  margin-top: 90px;
 }
 
-.lul-logo {
-  height: 75px;
+.lul-donate {
+  background-color: $lul-blue;
+  border-color: $lul-blue;
+  color: $lul-yellow;
+}
+
+.lul-volunteer {
+  background-color: $lul-yellow;
+  border-color: $lul-yellow;
+  color: $lul-blue;
+  font-weight: bold;
 }
 
 .lul-hero {
@@ -75,6 +94,10 @@ blockquote {
     font-size: 14px
   }
 
+  .lul-logo {
+    height: 60px;
+  }
+
   .lul-hero {
     .lul-hero-column {
       margin-left: 60%;
@@ -86,6 +109,10 @@ blockquote {
 @media (min-width: 544px) { 
   body {
     font-size: 16px
+  }
+
+  .lul-logo {
+    height: 70px;
   }
 
   .lul-hero {
@@ -103,6 +130,10 @@ blockquote {
     font-size: 18px
   }
 
+  .lul-logo {
+    height: 80px;
+  }
+
   .lul-hero {
     height: 432px;
 
@@ -117,6 +148,10 @@ blockquote {
     font-size: 20px
   }
 
+  .lul-logo {
+    height: 90px;
+  }
+
   .lul-hero {
     height: 558px;
   }
@@ -125,6 +160,10 @@ blockquote {
 @media (min-width: 1200px) {
   body {
     font-size: 24px;
+  }
+
+  .lul-logo {
+    height: 100px;
   }
 
   .lul-hero {
