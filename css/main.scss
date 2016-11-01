@@ -9,6 +9,11 @@ body {
   font-family: $roboto; 
 }
 
+.lul-home-mission {
+  font-size: 1.5em;
+  color: $lul-blue;
+}
+
 blockquote {
   font-size: 1em;
   font-style: italic;
@@ -36,10 +41,18 @@ blockquote {
 .lul-submenu {
   margin-top: 5em;
 
+  .nav-item .nav-link {
+    color: $lul-blue !important;
+
+    &:hover {
+      color: $lul-yellow !important;
+      background-color: $lul-blue !important;
+    }
+  }
+
   .active {
-    background-color: white !important;
-    color: black !important;
-    border: 1px solid lightgrey !important;
+    background-color: $lul-yellow !important;
+    color: $lul-blue !important;
   }
 }
 
@@ -96,9 +109,22 @@ blockquote {
   height: 180px;
 }
 
+.lul-hero-text {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 2em;
+  color: $lul-blue;
+  background-color: $lul-yellow;
+  margin-bottom: 1em;
+
+  p {
+    margin-bottom: 0;
+  }
+}
+
 @media (max-width: 543px) {
   body {
-    font-size: 14px
+    font-size: 10px
   }
 
   .lul-logo {
@@ -115,7 +141,7 @@ blockquote {
 
 @media (min-width: 544px) { 
   body {
-    font-size: 16px
+    font-size: 12px
   }
 
   .lul-logo {
@@ -134,7 +160,7 @@ blockquote {
 
 @media (min-width: 768px) { 
   body {
-    font-size: 18px
+    font-size: 12px
   }
 
   .lul-logo {
@@ -152,7 +178,7 @@ blockquote {
 
 @media (min-width: 992px) {
   body {
-    font-size: 20px
+    font-size: 14px 
   }
 
   .lul-logo {
@@ -166,7 +192,7 @@ blockquote {
 
 @media (min-width: 1200px) {
   body {
-    font-size: 24px;
+    font-size: 16px;
   }
 
   .lul-logo {

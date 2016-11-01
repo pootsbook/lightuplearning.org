@@ -9,10 +9,10 @@
   </button>
       <div class="collapse navbar-toggleable-sm" id="exCollapsingNavbar2">
 
-        <ul class="nav navbar-nav pull-xs-right" style="margin-top: 16px;">
+        <ul class="nav navbar-nav">
           {% for item in site.data.navigation %}
             {% assign item_page = site.pages | where:"id", item.target | first %}
-            <li class="nav-item {% if page.section == item.section %}active{% endif %}">
+            <li class="nav-item {% if page.section == item.section %}active{% endif %}" style="margin-top: 1.5em; margin-left: 2em">
               <a class="nav-link" href="{{item_page.url}}">{{item.text}} {% if page.section == item.section %}<span class="sr-only">(current)</span>{% endif %}</a>
             </li>
           {% endfor %}

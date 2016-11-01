@@ -1,6 +1,7 @@
 - name: Will Ferguson 
   role: Mentor and Trustee
-  bio: "Will is originally from Edinburgh, and moved back there after an undergraduate degree at Harvard University and a Ph.D. in history at the University of Cambridge. During his studies, the combination of world­class teaching and handling rare historical documents made Will aware that learning could be thrilling and life­enhancing. He wanted to share this powerful sense of excitement with young people and, after a year of working as a voluntary mentor with The Access Project in London, founded Light Up Learning with his friend, Richard McLauchlan."
+  shot: "headshot-will.jpg"
+  bio: "Will is originally from Edinburgh, and moved back there after an undergraduate degree at Harvard University and a Ph.D. in history at the University of Cambridge. During his studies, the combination of world­class teaching and handling rare historical documents made Will aware that learning could be thrilling and life-enhancing. He wanted to share this powerful sense of excitement with young people and, after a year of working as a voluntary mentor with The Access Project in London, founded Light Up Learning with his friend, Richard McLauchlan."
 - name: Richard McLauchlan
   role: Mentor and Trustee
   shot: "headshot-rich.jpg"
@@ -13,7 +14,7 @@
   bio:
 - name: Philip Poots
   role: IT Consultant
-  shot: "poots-headshot.jpg"
+  shot: "headshot-poots.jpg"
   bio:
 - name: Ellen Michaelis
   role:

@@ -17,7 +17,7 @@
  * is changed, all of the other fonts will respond/adjust appropriately.
  */
 body {
-    font-size: 16px;                /* Adjust this if needed */
+    font-size: 12px;                /* Adjust this if needed */
     line-height: 1.5em;
 }
 
